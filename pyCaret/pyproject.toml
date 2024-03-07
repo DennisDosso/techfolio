@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pycaret"
+version = "0.1.0"
+description = ""
+authors = ["Dennis Dosso <ddosso@siav.it>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
