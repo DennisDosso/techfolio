@@ -1,2 +1,8 @@
 **/.venv
 **/.vscode
+**/.venv
+**/google-cloud-sdk
+
+*.pdf
+
+**/data

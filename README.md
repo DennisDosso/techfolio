@@ -1,0 +1,2 @@
+* `test` Directory contenente progetti che sono stati solo provati o accennati, o nei quali si è utilizzato un notebook per provare velocemente qualche modello. 
+	* `gliner` Testato il modello HuggingFace GliNER per eseguire zero-shot NER. Permette di eseguire NER su documenti testuali su classi mai viste prima. Basta specificare al modello la lista di classi (anche in italiano), ed esso tenterà di eseguire zero-shot NER.
